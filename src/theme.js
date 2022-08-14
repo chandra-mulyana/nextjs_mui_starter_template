@@ -48,7 +48,7 @@ palette: {
     divider: 'rgba(0,0,0,0.12)',
   },
   shape: {
-    borderRadius: 10,
+    borderRadius: 5,
   },
 });
 
